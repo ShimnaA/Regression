@@ -17,6 +17,14 @@
     - Multiple Regression  - no need to do Feature Scaling as each feature is mulitplied by coefficient
         - and coefficients compensate high values
     - To predict for a new data, Pass data in 2 dimension
+    
+**Polynomial Linear Regression**
+    - Dataset - Position_Salaries.csv
+
+    - Preprocess data using sklearn PolynomialFeatures to the degree desired.
+    - sklearn LinearRegression
+    - Visualize
+    - To predict for a new data
 
 
 
